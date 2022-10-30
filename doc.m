@@ -34,7 +34,8 @@
 %
 %% See also
 %
-% | <https://fr.mathworks.com/matlabcentral/fileexchange/65574-tetrahedron-circumscribed-sphere?s_tid=prof_contriblnk tetrahedron insphere> |
+% | <https://fr.mathworks.com/matlabcentral/fileexchange/119778-triangle-incircle triangle incircle> |
+%   <https://fr.mathworks.com/matlabcentral/fileexchange/65574-tetrahedron-circumscribed-sphere?s_tid=prof_contriblnk tetrahedron circumsphere> |
 %
 %
 %% Input arguments
