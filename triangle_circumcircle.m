@@ -18,10 +18,7 @@ function [R, I, r] = triangle_circumcircle(A, B, C, nb_samples, option_display)
 % logical true or real numeric 1, and doesn't when it is set to logical false or real numeric 0.
 % [R, I, r] = triangle_circumcircle(A, B, C, nb_samples, option_display) stores the results in [R, I, r] vector.
 %
-% See also
-%
-% | <https://fr.mathworks.com/matlabcentral/fileexchange/119778-triangle-incircle triangle incircle> |
-% | <https://fr.mathworks.com/matlabcentral/fileexchange/65574-tetrahedron-circumscribed-sphere?s_tid=prof_contriblnk tetrahedron circumsphere> |
+% See also CIRCUMCENTER INCENTER
 %
 % Input arguments
 %
