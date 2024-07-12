@@ -2,7 +2,7 @@
 %
 % Function to compute and display the circumcircle of one given triangle.
 %
-% Author & support : nicolas.douillet (at) free.fr, 2022.
+% Author : nicolas.douillet (at) free.fr, 2022-2024.
 %
 %
 %% Syntax
