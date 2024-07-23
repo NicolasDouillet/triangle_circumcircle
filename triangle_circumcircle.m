@@ -1,7 +1,7 @@
 function [R, I, r] = triangle_circumcircle(A, B, C, nb_samples, option_display)
 %% triangle_circumcircle : function to compute and display the circumcircle of one given triangle
 %
-% Author : nicolas.douillet (at) free.fr, 2022-2024.
+% Author : nicolas.douillet9 (at) gmail.com, 2022-2024.
 %
 % Syntax
 %
@@ -185,7 +185,7 @@ end % triangle_circumcircle
 %% planes_intersection subfunction
 function [I, u, rc] = planes_intersection(n1, M1, n2, M2)
 %
-% Author & support : nicolas.douillet (at) free.fr, 2019-2022.
+% Author : nicolas.douillet9 (at) gmail.com, 2019-2024.
 
 
 d1 = -dot(n1,M1); % -a1*x1 - b1*y1 - c1*z1
@@ -263,7 +263,7 @@ end % planes_intersection
 %% line_plane_intersection subfunction
 function [I,rc] = line_plane_intersection(u, N, n, M)
 %
-% Author & support : nicolas.douillet (at) free.fr, 2019-2022.
+% Author : nicolas.douillet9 (at) gmail.com, 2019-2024.
 
 
 % Plane offset parameter
